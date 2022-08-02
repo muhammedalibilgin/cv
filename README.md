@@ -48,7 +48,7 @@ style=" fill:#000000;"> <path d="M 5 3 C 3.895 3 3 3.895 3 5 L 3 19 C 3 20.105 3
 </span>
 
 <h2 style="background-color:black; color:white; display:inline-block "> SUMMARY</h2>
-<p>Junior Frontend Developer. I love JavaScript and i am interested in technologies created with this language. I've been improving myself on issues related to this for more than a year. I am a fan of React and my admiration grows more and more every day. My goal is to specialize in React and I work for this with excitement every day. <p/>
+<p>Junior Frontend Developer. I love JavaScript and i am interested in technologies created with this language. I've been improving myself on issues related to this for almost 2 years. I am a fan of React and my admiration grows more and more every day. My goal is to specialize in React and I work for this with excitement every day. I'm also interested in everything a frontend developer needs to know. I worked with nodejs on the backend side a little bit and I made a MERN stack project with it and brought it live. <p/>
 
 <!-- <span style="color:red">some **This is Red Bold.** text</span>
 <br/>
