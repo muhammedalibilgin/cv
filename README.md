@@ -58,7 +58,3 @@
   <li>Login page with i created using React.js</li>
   <li>classic to-do app and some other minor projects.</li>  
 </ul>
-
-<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="muhammedalibilgin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/muhammedalibilgin?trk=profile-badge"> Muhammed Ali Bilgin</a></div>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
